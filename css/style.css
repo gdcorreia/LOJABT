@@ -1,0 +1,11 @@
+.content{height: 500px;
+background-size: cover;}
+
+.title{justify-content: center;
+display: flex;
+font-family:'Roboto', sans-serif;}
+
+.produto{display: flex;
+flex-wrap: wrap;
+flex-direction: row;}
+
